@@ -1,10 +1,13 @@
-# Yemeksepeti Rastgele Yemek Tavsiye Robotu
+KULLANILMAYAN / OBSOLETE
+
+~~# Yemeksepeti Rastgele Yemek Tavsiye Robotu
 Yemeksepetinde saatlarce ekrana bakıp açlıktan ölmeyin diye 😃
 
-Çok yakında
+~~Çok yakında
 
 -------------
-## Yapılacaklar
+~~## Yapılacaklar
 * Komut Satırı Araüzü Uygulaması
 * Web Uygulaması
 * Mobil Uygulama
+~~
